@@ -1,2 +1,2 @@
 # Facial-Reconstruction-Backend
-Сервеная часть проекта Facial-Reconstruction 
+Серверная часть проекта Facial-Reconstruction 
